@@ -26,7 +26,7 @@ Documentations : https://github.com/phamhoainhan/Documentation
 
 =======================================
 
-Published website : https://phamhoainhan/tree/main
+Published website : [https://phamhoainhan/tree/main](https://phamhoainhan.github.io/Biography_Group04/)
 
 =======================================
 
